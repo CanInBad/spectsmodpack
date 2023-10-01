@@ -1,10 +1,12 @@
-name = "happy lala funland 2.5"
+name = "Spect's modpack"
+author = "ChiIdPuncher, CanInBad"
+version = "A2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a614cfc4a780a4453f2c54c65dbbc131f58bac7e7cd43f4ba5600b1a3797515c"
+hash = "1284ef6d911cf7d3d4f030d903284b83d98b65e66e792547bd7446ba0b18fc76"
 
 [versions]
 forge = "43.2.23"
