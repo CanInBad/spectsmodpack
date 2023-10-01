@@ -1,6 +1,6 @@
 name = "Observable"
 filename = "observable-3.3.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
