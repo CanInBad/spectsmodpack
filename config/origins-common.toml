@@ -1,0 +1,764 @@
+
+[origins]
+
+	[origins."bucolicraces:packrat"]
+		"bucolicraces:status_effect_modifiers/fast" = true
+		"bucolicraces:health_modifiers/sevenheart" = true
+		"bucolicraces:on-hit_modifiers/weak" = true
+		"bucolicraces:diet_modifiers/weak_stomach" = true
+		"bucolicraces:size_modifiers/threequartersize" = true
+		"bucolicraces:abilities/shulker_inventory" = true
+		enabled = true
+
+	[origins."bucolicraces:enderfolk"]
+		"bucolicraces:size_modifiers/threeblockstall" = true
+		"bucolicraces:speed_modifiers/threetallspeed" = true
+		"bucolicraces:ally_modifiers/endermanteaminviteenderman" = true
+		"bucolicraces:abilities/throw_ender_pearl" = true
+		"bucolicraces:damage_taken_modifiers/water_vulnerability" = true
+		"bucolicraces:health_modifiers/fifteenheart" = true
+		"bucolicraces:ally_modifiers/endermanteam" = true
+		"bucolicraces:skin_modifiers/ender_particles" = true
+		"bucolicraces:zmisc_modifiers/pumpkin_hate" = true
+		enabled = true
+		"bucolicraces:skin_modifiers/black_skin" = true
+		"bucolicraces:diet_modifiers/vegetarian" = true
+		"bucolicraces:jumping_modifiers/threetalljump" = true
+		"bucolicraces:size_modifiers/endermanwidth" = true
+
+	[origins."bucolicraces:butterfly"]
+		"bucolicraces:ally_modifiers/beeteaminvite" = true
+		"bucolicraces:skin_modifiers/rainbowhead" = true
+		"bucolicraces:skills/greaterflight" = true
+		"bucolicraces:size_modifiers/quartersize" = true
+		"bucolicraces:diet_modifiers/honeybuff" = true
+		enabled = true
+		"bucolicraces:on-hit_modifiers/passive" = true
+		"bucolicraces:ally_modifiers/beeteam" = true
+		"bucolicraces:damage_taken_modifiers/spiders" = true
+		"bucolicraces:diet_modifiers/honeydiet" = true
+		"bucolicraces:skin_modifiers/fairy_particles" = true
+		"bucolicraces:diet_modifiers/nectar" = true
+		"bucolicraces:health_modifiers/fiveheart" = true
+
+	[origins."bucolicraces:dwarf"]
+		"bucolicraces:armor_modifiers/iron" = true
+		"bucolicraces:status_effect_modifiers/undergrounder" = true
+		"bucolicraces:on-hit_modifiers/axedamage" = true
+		"bucolicraces:damage_taken_modifiers/poisonresist" = true
+		"bucolicraces:status_effect_modifiers/haste" = true
+		"bucolicraces:speed_modifiers/dwarfspeed" = true
+		"bucolicraces:zmisc_modifiers/deepsleep" = true
+		"bucolicraces:size_modifiers/dwarfwidth" = true
+		enabled = true
+
+	[origins."bucolicraces:gnome"]
+		"bucolicraces:diet_modifiers/vegetarian" = true
+		"bucolicraces:ally_modifiers/passive" = true
+		"bucolicraces:status_effect_modifiers/fast" = true
+		"bucolicraces:abilities/rightheal" = true
+		"bucolicraces:size_modifiers/quartersize" = true
+		enabled = true
+		"bucolicraces:health_modifiers/fiveheart" = true
+
+	[origins."bucolicraces:chameleon"]
+		"bucolicraces:biome_modifiers/hotspeed" = true
+		"bucolicraces:biome_modifiers/coldfreeze" = true
+		"bucolicraces:damage_taken_modifiers/poisonresist" = true
+		"bucolicraces:size_modifiers/threequartersize" = true
+		"bucolicraces:status_effect_modifiers/shiftinvis" = true
+		enabled = true
+		"bucolicraces:status_effect_modifiers/lightunderwaterbreathing" = true
+
+	[origins."bucolicraces:airelemental"]
+		"bucolicraces:abilities/airshot" = true
+		"bucolicraces:diet_modifiers/airelemental/feather" = true
+		"bucolicraces:diet_modifiers/airelemental/airdiet" = true
+		"bucolicraces:diet_modifiers/airelemental/airfood" = true
+		"bucolicraces:skin_modifiers/airy" = true
+		"bucolicraces:fall_modifiers/slowfall" = true
+		enabled = true
+
+	[origins."origins:shulk"]
+		"origins:strong_arms" = true
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:natural_armor" = true
+		enabled = true
+		"origins:shulker_inventory" = true
+
+	[origins."bucolicraces:noble"]
+		"bucolicraces:zmisc_modifiers/noores" = true
+		"bucolicraces:ally_modifiers/noble" = true
+		"bucolicraces:on-hit_modifiers/strong" = true
+		"bucolicraces:recipes/explosive" = true
+		"bucolicraces:zmisc_modifiers/smart" = true
+		"bucolicraces:diet_modifiers/weak_stomach" = true
+		"bucolicraces:armor_modifiers/golden" = true
+		enabled = true
+
+	[origins."bucolicraces:orc"]
+		"bucolicraces:speed_modifiers/threetallspeed" = true
+		"bucolicraces:size_modifiers/twoandahalfblockstall" = true
+		"bucolicraces:diet_modifiers/carnivore" = true
+		"bucolicraces:abilities/berserk" = true
+		"bucolicraces:jumping_modifiers/threetalljump" = true
+		"bucolicraces:skin_modifiers/orc_skin" = true
+		"bucolicraces:health_modifiers/fifteenheart" = true
+		"bucolicraces:zmisc_modifiers/dull" = true
+		enabled = true
+
+	[origins."bucolicraces:grandma"]
+		"bucolicraces:vision_modifiers/blurry" = true
+		enabled = true
+
+	[origins."bucolicraces:crab"]
+		"bucolicraces:speed_modifiers/crabwalk" = true
+		"bucolicraces:on-hit_modifiers/claws" = true
+		"bucolicraces:size_modifiers/crabwidth" = true
+		"bucolicraces:size_modifiers/halfsize" = true
+		"bucolicraces:status_effect_modifiers/fast" = true
+		"bucolicraces:diet_modifiers/pescatarian" = true
+		"bucolicraces:diet_modifiers/fishbuff" = true
+		enabled = true
+
+	[origins."bucolicraces:illager"]
+		"bucolicraces:ally_modifiers/illagerteam" = true
+		"bucolicraces:ally_modifiers/trading" = true
+		"bucolicraces:on-hit_modifiers/axedamage" = true
+		"bucolicraces:status_effect_modifiers/banner" = true
+		"bucolicraces:ally_modifiers/irongolemmad" = true
+		"bucolicraces:ally_modifiers/illagerinvite" = true
+		enabled = true
+		"bucolicraces:on-hit_modifiers/bowdamage" = true
+
+	[origins."bucolicraces:villager"]
+		"bucolicraces:status_effect_modifiers/afraidofdark" = true
+		"bucolicraces:damage_taken_modifiers/zombieillager" = true
+		"bucolicraces:ally_modifiers/villagerdiscountamazing" = true
+		enabled = true
+		"bucolicraces:abilities/golemshot" = true
+
+	[origins."bucolicraces:seraph"]
+		"bucolicraces:ally_modifiers/villagerdiscount" = true
+		"bucolicraces:speed_modifiers/threetallspeed" = true
+		"bucolicraces:diet_modifiers/vegetarian" = true
+		"bucolicraces:ally_modifiers/passive" = true
+		"bucolicraces:size_modifiers/twoandahalfblockstall" = true
+		"bucolicraces:jumping_modifiers/threetalljump" = true
+		"bucolicraces:skills/greater_wings" = true
+		"bucolicraces:on-hit_modifiers/holy_smite" = true
+		"bucolicraces:skin_modifiers/aura_particles_electric_spark" = true
+		enabled = true
+
+	[origins."bucolicraces:fairy"]
+		"bucolicraces:health_modifiers/threeheart" = true
+		"bucolicraces:status_effect_modifiers/healingmagic" = true
+		"bucolicraces:skin_modifiers/fairy_particles" = true
+		"bucolicraces:skills/greaterflight" = true
+		"bucolicraces:on-hit_modifiers/weak" = true
+		"bucolicraces:armor_modifiers/ferrumphobiaarmor" = true
+		"bucolicraces:size_modifiers/quartersize" = true
+		"bucolicraces:speed_modifiers/quartertallflight" = true
+		enabled = true
+		"bucolicraces:damage_taken_modifiers/ferrumphobia" = true
+
+	[origins."bucolicraces:goblin"]
+		"bucolicraces:skin_modifiers/goblin_skin" = true
+		"bucolicraces:size_modifiers/halfsize" = true
+		"bucolicraces:status_effect_modifiers/lucky" = true
+		"bucolicraces:on-hit_modifiers/weak" = true
+		"bucolicraces:armor_modifiers/golden" = true
+		"bucolicraces:status_effect_modifiers/nightvision" = true
+		"bucolicraces:recipes/gold" = true
+		enabled = true
+		"bucolicraces:health_modifiers/fiveheart" = true
+
+	[origins."bucolicraces:gunling"]
+		"bucolicraces:status_effect_modifiers/sinking" = true
+		"bucolicraces:diet_modifiers/dietnone" = true
+		"bucolicraces:abilities/gunling/gunpowder" = true
+		"bucolicraces:damage_taken_modifiers/drown" = true
+		"bucolicraces:ally_modifiers/irongolemmad" = true
+		"bucolicraces:size_modifiers/quartersize" = true
+		enabled = true
+		"bucolicraces:abilities/gunling/gunshot" = true
+		"bucolicraces:ally_modifiers/trading" = true
+		"bucolicraces:diet_modifiers/nohunger" = true
+		"bucolicraces:abilities/gunling/ironfuel" = true
+		"bucolicraces:abilities/gunling/gunfuel" = true
+		"bucolicraces:abilities/gunling/iron" = true
+
+	[origins."origins:enderian"]
+		"origins:water_vulnerability" = true
+		"origins:throw_ender_pearl" = true
+		"origins:pumpkin_hate" = true
+		"origins:ender_particles" = true
+		"origins:damage_from_potions" = true
+		enabled = true
+		"origins:extra_reach" = true
+
+	[origins."bucolicraces:tabbyborn"]
+		"bucolicraces:zmisc_modifiers/elytraprevent" = true
+		"bucolicraces:ally_modifiers/villagerdiscountbetter" = true
+		"bucolicraces:ally_modifiers/wolfhunt" = true
+		"bucolicraces:abilities/dash" = true
+		"bucolicraces:health_modifiers/sevenheart" = true
+		"bucolicraces:diet_modifiers/pescatarian" = true
+		"bucolicraces:fall_modifiers/restrictfall" = true
+		"bucolicraces:size_modifiers/threequartersize" = true
+		"bucolicraces:ally_modifiers/scarecreepers" = true
+		enabled = true
+		"origins:scare_creepers" = true
+
+	[origins."bucolicraces:undead"]
+		"bucolicraces:ally_modifiers/undeadteam" = true
+		"bucolicraces:status_effect_modifiers/sinking" = true
+		"bucolicraces:entity_groups/undeadentity" = true
+		"bucolicraces:damage_taken_modifiers/hungerresist" = true
+		"bucolicraces:ally_modifiers/irongolemmad" = true
+		enabled = true
+		"bucolicraces:ally_modifiers/trading" = true
+		"bucolicraces:ally_modifiers/undeadinvite" = true
+		"bucolicraces:skin_modifiers/undead_skin" = true
+		"bucolicraces:zmisc_modifiers/heliophobia" = true
+		"bucolicraces:diet_modifiers/rawdiet" = true
+		"bucolicraces:status_effect_modifiers/nightvision" = true
+		"bucolicraces:status_effect_modifiers/slowwater" = true
+		"bucolicraces:diet_modifiers/rawbuff" = true
+
+	[origins."bucolicraces:demon"]
+		"bucolicraces:speed_modifiers/threetallspeed" = true
+		"bucolicraces:damage_taken_modifiers/fire_immunity" = true
+		"bucolicraces:diet_modifiers/dietnone" = true
+		"bucolicraces:skin_modifiers/light_red_skin" = true
+		"bucolicraces:damage_taken_modifiers/poisonresist" = true
+		"bucolicraces:damage_taken_modifiers/water_vulnerability" = true
+		"bucolicraces:health_modifiers/fifteenheart" = true
+		"bucolicraces:ally_modifiers/irongolemmad" = true
+		enabled = true
+		"bucolicraces:size_modifiers/twoandahalfblockstall" = true
+		"bucolicraces:on-hit_modifiers/claws" = true
+		"bucolicraces:ally_modifiers/trading" = true
+		"bucolicraces:jumping_modifiers/threetalljump" = true
+		"bucolicraces:skin_modifiers/flame_particles" = true
+		"bucolicraces:on-hit_modifiers/soul_harvest" = true
+
+	[origins."bucolicraces:woodling"]
+		"bucolicraces:ally_modifiers/villagerdiscountbetter" = true
+		"bucolicraces:damage_taken_modifiers/flamable" = true
+		"bucolicraces:ally_modifiers/passive" = true
+		"bucolicraces:zmisc_modifiers/photosynthesis" = true
+		"bucolicraces:status_effect_modifiers/blendin" = true
+		"bucolicraces:health_modifiers/sevenheart" = true
+		"bucolicraces:size_modifiers/quartersize" = true
+		"bucolicraces:diet_modifiers/honeybuff" = true
+		enabled = true
+
+	[origins."bucolicraces:avian"]
+		"bucolicraces:armor_modifiers/lightweight" = true
+		"bucolicraces:ally_modifiers/wolfhunt" = true
+		"bucolicraces:abilities/birdlaunch" = true
+		"bucolicraces:damage_taken_modifiers/hollowbones" = true
+		"bucolicraces:skills/elytra" = true
+		"bucolicraces:diet_modifiers/pescatarian" = true
+		"bucolicraces:on-hit_modifiers/weak" = true
+		"bucolicraces:abilities/launch_high" = true
+		enabled = true
+
+	[origins."bucolicraces:creeper"]
+		"bucolicraces:ally_modifiers/trading" = true
+		"bucolicraces:zmisc_modifiers/lay_gunpowder" = true
+		"bucolicraces:health_modifiers/sevenheart" = true
+		"bucolicraces:size_modifiers/belowaverage" = true
+		"bucolicraces:on-hit_modifiers/explosiononhit" = true
+		"bucolicraces:abilities/creeper_explode" = true
+		enabled = true
+
+	[origins."bucolicraces:candling"]
+		"bucolicraces:size_modifiers/adaptivesize" = true
+		"bucolicraces:status_effect_modifiers/firehunger" = true
+		"bucolicraces:damage_taken_modifiers/fire_immunity" = true
+		"bucolicraces:status_effect_modifiers/regen" = true
+		"bucolicraces:diet_modifiers/smalldiet" = true
+		"bucolicraces:skin_modifiers/honey_particles" = true
+		"bucolicraces:diet_modifiers/waxdiet" = true
+		enabled = true
+		"bucolicraces:skin_modifiers/wick" = true
+		"bucolicraces:zmisc_modifiers/fireheal" = true
+		"bucolicraces:size_modifiers/reset" = true
+		"bucolicraces:damage_taken_modifiers/wick_water_vulnerability" = true
+		"bucolicraces:diet_modifiers/candle/honeycomb" = true
+		"bucolicraces:diet_modifiers/candle/tallow" = true
+		"bucolicraces:diet_modifiers/candle/animalfat" = true
+
+	[origins."bucolicraces:human"]
+		enabled = true
+
+	[origins."bucolicraces:iceelemental"]
+		"bucolicraces:damage_taken_modifiers/flamable" = true
+		"bucolicraces:size_modifiers/reset" = true
+		"bucolicraces:biome_modifiers/iceelemental" = true
+		"bucolicraces:diet_modifiers/coldbiomediet" = true
+		"bucolicraces:abilities/icegolemshot" = true
+		"bucolicraces:speed_modifiers/ice_slip" = true
+		enabled = true
+		"bucolicraces:zmisc_modifiers/lay_ice" = true
+
+	[origins."origins:elytrian"]
+		"origins:more_kinetic_damage" = true
+		"origins:elytra" = true
+		"origins:claustrophobia" = true
+		"origins:aerial_combatant" = true
+		"origins:light_armor" = true
+		"origins:launch_into_air" = true
+		enabled = true
+
+	[origins."bucolicraces:fireelemental"]
+		"bucolicraces:skin_modifiers/smoke" = true
+		"bucolicraces:diet_modifiers/fireelemental/lessnutritionfire" = true
+		"bucolicraces:damage_taken_modifiers/fire_immunity" = true
+		"bucolicraces:diet_modifiers/fireelemental/charcoal" = true
+		"bucolicraces:damage_taken_modifiers/water_vulnerability" = true
+		"bucolicraces:diet_modifiers/fireelemental/blazingbucket" = true
+		"bucolicraces:abilities/blaze" = true
+		enabled = true
+		"bucolicraces:skin_modifiers/red_skin" = true
+		"bucolicraces:zmisc_modifiers/fireheal" = true
+		"bucolicraces:size_modifiers/reset" = true
+		"bucolicraces:diet_modifiers/fireelemental/coal" = true
+		"bucolicraces:damage_taken_modifiers/wick_water_vulnerability" = true
+		"bucolicraces:diet_modifiers/fireelemental/lava" = true
+
+	[origins."bucolicraces:giant"]
+		"bucolicraces:armor_modifiers/natural_armor" = true
+		"bucolicraces:status_effect_modifiers/strength" = true
+		"bucolicraces:diet_modifiers/giantdiet" = true
+		"bucolicraces:health_modifiers/twentyheart" = true
+		"bucolicraces:skills/groundslam" = true
+		"bucolicraces:size_modifiers/fiveblockstall" = true
+		"bucolicraces:jumping_modifiers/fivetalljump" = true
+		enabled = true
+		"bucolicraces:speed_modifiers/fivetallspeed" = true
+
+	[origins."bucolicraces:ghoul"]
+		"bucolicraces:diet_modifiers/rottenbuff" = true
+		"bucolicraces:diet_modifiers/rottendiet" = true
+		"bucolicraces:diet_modifiers/ghoul/blood_bucket2" = true
+		"bucolicraces:damage_taken_modifiers/poisonresist" = true
+		"bucolicraces:status_effect_modifiers/fast" = true
+		"bucolicraces:diet_modifiers/ghoul/blood_bucket1" = true
+		"bucolicraces:size_modifiers/threequartersize" = true
+		"bucolicraces:ally_modifiers/irongolemmad" = true
+		enabled = true
+		"bucolicraces:damage_taken_modifiers/flamable" = true
+		"bucolicraces:on-hit_modifiers/claws" = true
+		"bucolicraces:ally_modifiers/trading" = true
+		"bucolicraces:status_effect_modifiers/weakeyes" = true
+		"bucolicraces:status_effect_modifiers/nightvision" = true
+		"bucolicraces:diet_modifiers/ghoul/blood_bottle" = true
+		"bucolicraces:diet_modifiers/ghoul/blood_slime_balls" = true
+
+	[origins."origins:arachnid"]
+		"origins:carnivore" = true
+		"origins:fragile" = true
+		"origins:arthropod" = true
+		"origins:master_of_webs" = true
+		enabled = true
+		"origins:climbing" = true
+
+	[origins."origins:feline"]
+		"origins:cat_vision" = true
+		"origins:velvet_paws" = true
+		"origins:fall_immunity" = true
+		"origins:weak_arms" = true
+		"origins:nine_lives" = true
+		enabled = true
+		"origins:sprint_jump" = true
+		"origins:scare_creepers" = true
+
+	[origins."bucolicraces:phantom"]
+		"bucolicraces:zmisc_modifiers/nosleep" = true
+		"bucolicraces:skin_modifiers/dark_ghost_skin" = true
+		"bucolicraces:size_modifiers/reset" = true
+		"bucolicraces:size_modifiers/threequartersize" = true
+		"bucolicraces:zmisc_modifiers/heliophobia" = true
+		"bucolicraces:skin_modifiers/smoke_particles" = true
+		"bucolicraces:abilities/phantomise" = true
+		enabled = true
+
+	[origins."bucolicraces:troll"]
+		"bucolicraces:size_modifiers/fourblockstall" = true
+		"bucolicraces:diet_modifiers/carnivore" = true
+		"bucolicraces:skin_modifiers/troll_skin" = true
+		"bucolicraces:damage_taken_modifiers/poisonresist" = true
+		"bucolicraces:damage_taken_modifiers/highlyflamable" = true
+		"bucolicraces:zmisc_modifiers/dull" = true
+		"bucolicraces:health_modifiers/twentyheart" = true
+		"bucolicraces:status_effect_modifiers/greaterregeneration" = true
+		"bucolicraces:speed_modifiers/fourtallspeed" = true
+		"bucolicraces:jumping_modifiers/fourtalljump" = true
+		enabled = true
+
+	[origins."bucolicraces:worm"]
+		"bucolicraces:recipes/bonemeal" = true
+		"bucolicraces:recipes/dirt" = true
+		"bucolicraces:diet_modifiers/bonediet" = true
+		"bucolicraces:size_modifiers/quartersize" = true
+		"bucolicraces:diet_modifiers/worm/bonemeal" = true
+		"bucolicraces:diet_modifiers/rawbuff" = true
+		enabled = true
+		"bucolicraces:skills/dirtswimmer" = true
+
+	[origins."bucolicraces:dryad"]
+		"bucolicraces:armor_modifiers/natural_armor" = true
+		"bucolicraces:status_effect_modifiers/regen" = true
+		"bucolicraces:zmisc_modifiers/photosynthesis" = true
+		"bucolicraces:diet_modifiers/honeybuff" = true
+		enabled = true
+		"bucolicraces:damage_taken_modifiers/flamable" = true
+		"bucolicraces:ally_modifiers/passive" = true
+		"bucolicraces:size_modifiers/twoandahalfblockstall" = true
+		"bucolicraces:diet_modifiers/honeydiet" = true
+		"bucolicraces:abilities/bonemeal" = true
+		"bucolicraces:status_effect_modifiers/forestregen" = true
+		"bucolicraces:jumping_modifiers/threetalljump" = true
+		"bucolicraces:biome_modifiers/nocold" = true
+		"bucolicraces:skin_modifiers/happy_villager" = true
+
+	[origins."bucolicraces:phoenixborn"]
+		"bucolicraces:damage_taken_modifiers/fire_immunity" = true
+		"bucolicraces:status_effect_modifiers/regen" = true
+		"bucolicraces:diet_modifiers/giantdiet" = true
+		"bucolicraces:abilities/flameofhope" = true
+		"bucolicraces:damage_taken_modifiers/water_vulnerability" = true
+		enabled = true
+		"bucolicraces:ally_modifiers/passive" = true
+		"bucolicraces:abilities/birdlaunch" = true
+		"bucolicraces:zmisc_modifiers/fireheal" = true
+		"bucolicraces:status_effect_modifiers/belowmypaygrade" = true
+		"bucolicraces:damage_taken_modifiers/wick_water_vulnerability" = true
+		"bucolicraces:abilities/rebirth" = true
+		"bucolicraces:skills/elytra" = true
+		"bucolicraces:abilities/launch_high" = true
+
+	[origins."bucolicraces:brownie"]
+		"bucolicraces:diet_modifiers/stewsbuff" = true
+		"bucolicraces:recipes/beetroot" = true
+		"bucolicraces:status_effect_modifiers/afraidofsun" = true
+		"bucolicraces:diet_modifiers/sweetsbuff" = true
+		"bucolicraces:recipes/cheapcookie" = true
+		"bucolicraces:recipes/sugarextract" = true
+		"bucolicraces:recipes/mushroom" = true
+		"bucolicraces:on-hit_modifiers/weak" = true
+		"bucolicraces:size_modifiers/threequartersize" = true
+		"bucolicraces:recipes/rabbit" = true
+		"bucolicraces:status_effect_modifiers/nightvision" = true
+		enabled = true
+
+	[origins."bucolicraces:raccoon"]
+		"bucolicraces:skills/climbing" = true
+		"bucolicraces:health_modifiers/sevenheart" = true
+		"bucolicraces:on-hit_modifiers/weak" = true
+		"bucolicraces:size_modifiers/threequartersize" = true
+		"bucolicraces:abilities/side_step" = true
+		"bucolicraces:diet_modifiers/rawdiet" = true
+		"bucolicraces:diet_modifiers/rawbuff" = true
+		enabled = true
+
+	[origins."bucolicraces:werewolf"]
+		"bucolicraces:zmisc_modifiers/nosleep" = true
+		"bucolicraces:zmisc_modifiers/werewolf" = true
+		"bucolicraces:ally_modifiers/trading" = true
+		"bucolicraces:size_modifiers/reset" = true
+		"bucolicraces:diet_modifiers/rawdiet" = true
+		"bucolicraces:diet_modifiers/rawbuff" = true
+		enabled = true
+
+	[origins."bucolicraces:atlantean"]
+		"bucolicraces:skin_modifiers/drip" = true
+		"bucolicraces:status_effect_modifiers/water_breathing" = true
+		"bucolicraces:status_effect_modifiers/water_regen" = true
+		"bucolicraces:status_effect_modifiers/dolphins" = true
+		"bucolicraces:damage_taken_modifiers/eternal_flame" = true
+		"bucolicraces:diet_modifiers/pescatarian" = true
+		"bucolicraces:skin_modifiers/blue_skin" = true
+		"bucolicraces:diet_modifiers/fishbuff" = true
+		"bucolicraces:zmisc_modifiers/dried_out" = true
+		enabled = true
+
+	[origins."bucolicraces:elf"]
+		"bucolicraces:speed_modifiers/threetallspeed" = true
+		"bucolicraces:size_modifiers/twoandahalfblockstall" = true
+		"bucolicraces:skills/infinitearrows" = true
+		"bucolicraces:jumping_modifiers/threetalljump" = true
+		"bucolicraces:diet_modifiers/weak_stomach" = true
+		"bucolicraces:size_modifiers/elfwidth" = true
+		"bucolicraces:skills/careful" = true
+		enabled = true
+		"bucolicraces:on-hit_modifiers/bowdamage" = true
+
+	[origins."origins:phantom"]
+		"origins:phasing" = true
+		"origins:fragile" = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:invisibility" = true
+		"origins:hunger_over_time" = true
+		enabled = true
+		"origins:burn_in_daylight" = true
+		"origins:phantomize_overlay" = true
+
+	[origins."origins:avian"]
+		"origins:fresh_air" = true
+		"origins:vegetarian" = true
+		"origins:lay_eggs" = true
+		"origins:slow_falling" = true
+		"origins:tailwind" = true
+		"origins:like_air" = true
+		enabled = true
+
+	[origins."bucolicraces:melon"]
+		"bucolicraces:status_effect_modifiers/regen" = true
+		"bucolicraces:zmisc_modifiers/photosynthesis" = true
+		"bucolicraces:health_modifiers/sevenheart" = true
+		"bucolicraces:zmisc_modifiers/dull" = true
+		"bucolicraces:ally_modifiers/endermanteam" = true
+		"bucolicraces:size_modifiers/threequartersize" = true
+		"bucolicraces:diet_modifiers/honeybuff" = true
+		enabled = true
+		"bucolicraces:diet_modifiers/honeydiet" = true
+		"bucolicraces:status_effect_modifiers/pumpkinhate" = true
+		"bucolicraces:abilities/flush" = true
+		"bucolicraces:ally_modifiers/endermanteaminvite" = true
+		"bucolicraces:abilities/pumpkin" = true
+
+	[origins."bucolicraces:automaton"]
+		"bucolicraces:abilities/automaton/flashbang" = true
+		"bucolicraces:status_effect_modifiers/sinking" = true
+		"bucolicraces:abilities/automaton/overheat" = true
+		"bucolicraces:diet_modifiers/irongolem/ironingot" = true
+		"bucolicraces:status_effect_modifiers/regen" = true
+		"bucolicraces:diet_modifiers/irondiet" = true
+		"bucolicraces:zmisc_modifiers/drillhand" = true
+		"bucolicraces:abilities/automaton/overheattick" = true
+		enabled = true
+		"bucolicraces:abilities/automaton/laser" = true
+		"bucolicraces:diet_modifiers/irongolem/crushed_iron_ore" = true
+		"bucolicraces:zmisc_modifiers/nosleep" = true
+		"bucolicraces:diet_modifiers/irongolem/ironnugget" = true
+		"bucolicraces:diet_modifiers/irongolem/iron_sheet" = true
+		"bucolicraces:diet_modifiers/nohunger" = true
+		"bucolicraces:diet_modifiers/irongolem/metal_bar" = true
+		"bucolicraces:diet_modifiers/irongolem/rawiron" = true
+
+	[origins."bucolicraces:mush"]
+		"bucolicraces:status_effect_modifiers/mycelium" = true
+		"bucolicraces:abilities/launch" = true
+		"bucolicraces:abilities/shroomlaunch" = true
+		"bucolicraces:zmisc_modifiers/dull" = true
+		"bucolicraces:skin_modifiers/mush_particles" = true
+		"bucolicraces:recipes/mycelium" = true
+		"bucolicraces:skin_modifiers/thick_spores" = true
+		"bucolicraces:size_modifiers/quartersize" = true
+		"bucolicraces:diet_modifiers/rawdiet" = true
+		"bucolicraces:diet_modifiers/rawbuff" = true
+		enabled = true
+		"bucolicraces:health_modifiers/fiveheart" = true
+
+	[origins."bucolicraces:relic"]
+		"bucolicraces:diet_modifiers/relic/brick" = true
+		"bucolicraces:diet_modifiers/relic/clay" = true
+		"bucolicraces:status_effect_modifiers/sinking" = true
+		"bucolicraces:damage_taken_modifiers/fire_immunity" = true
+		"bucolicraces:damage_taken_modifiers/poisonresist" = true
+		"bucolicraces:diet_modifiers/relic/scortchedbrick" = true
+		"bucolicraces:damage_taken_modifiers/drown" = true
+		"bucolicraces:diet_modifiers/relic/netherbrick" = true
+		enabled = true
+		"bucolicraces:diet_modifiers/relic/searedbrick" = true
+		"bucolicraces:diet_modifiers/relic/ashbrick" = true
+		"bucolicraces:abilities/statue" = true
+		"bucolicraces:diet_modifiers/claydiet" = true
+
+	[origins."bucolicraces:pixeling"]
+		"bucolicraces:fall_modifiers/microfall" = true
+		"bucolicraces:zmisc_modifiers/pixeling_hold/feather" = true
+		"bucolicraces:on-hit_modifiers/weak" = true
+		"bucolicraces:zmisc_modifiers/pixeling_hold/string" = true
+		enabled = true
+		"bucolicraces:zmisc_modifiers/pixeling_hold/rocket" = true
+		"bucolicraces:health_modifiers/threeheart" = true
+		"bucolicraces:skills/climbing" = true
+		"bucolicraces:size_modifiers/micro" = true
+		"bucolicraces:diet_modifiers/miniscule" = true
+		"bucolicraces:zmisc_modifiers/pixeling_hold/sugar" = true
+		"bucolicraces:biome_modifiers/nocold" = true
+		"bucolicraces:speed_modifiers/quartertallflight" = true
+
+	[origins."origins:human"]
+		enabled = true
+
+	[origins."bucolicraces:vampire"]
+		"bucolicraces:diet_modifiers/vampire/blood_bottle" = true
+		"bucolicraces:diet_modifiers/vampire/blood_slime_balls" = true
+		"bucolicraces:entity_groups/undeadentity" = true
+		"bucolicraces:status_effect_modifiers/regen" = true
+		"bucolicraces:ally_modifiers/vampirewolf" = true
+		"bucolicraces:speed_modifiers/nightspeed" = true
+		"bucolicraces:status_effect_modifiers/shiftinvis" = true
+		enabled = true
+		"bucolicraces:diet_modifiers/blood" = true
+		"bucolicraces:diet_modifiers/nohunger" = true
+		"bucolicraces:diet_modifiers/vampire/blood_bucket1" = true
+		"bucolicraces:status_effect_modifiers/holywater" = true
+		"bucolicraces:diet_modifiers/vampire/blood_bucket2" = true
+		"bucolicraces:status_effect_modifiers/dayweak" = true
+		"bucolicraces:status_effect_modifiers/nightvision" = true
+		"bucolicraces:diet_modifiers/vampire/rightclickdrain" = true
+
+	[origins."bucolicraces:dragon"]
+		"bucolicraces:size_modifiers/threeblockstall" = true
+		"bucolicraces:speed_modifiers/threetallspeed" = true
+		"bucolicraces:damage_taken_modifiers/fire_immunity" = true
+		"bucolicraces:ally_modifiers/trading" = true
+		"bucolicraces:jumping_modifiers/threetalljump" = true
+		"bucolicraces:skills/greater_wings" = true
+		"bucolicraces:diet_modifiers/weak_stomach" = true
+		"bucolicraces:abilities/dragonbreath" = true
+		"bucolicraces:status_effect_modifiers/abovemypaygrade" = true
+		enabled = true
+
+	[origins."bucolicraces:bee"]
+		"bucolicraces:ally_modifiers/beeteaminvite" = true
+		"bucolicraces:zmisc_modifiers/lay_bee" = true
+		"bucolicraces:on-hit_modifiers/poison" = true
+		"bucolicraces:size_modifiers/quartersize" = true
+		"bucolicraces:diet_modifiers/honeybuff" = true
+		enabled = true
+		"bucolicraces:ally_modifiers/beeteam" = true
+		"bucolicraces:diet_modifiers/honeydiet" = true
+		"bucolicraces:skills/greater_wings" = true
+		"bucolicraces:diet_modifiers/nectar" = true
+		"bucolicraces:zmisc_modifiers/lay_bee1" = true
+		"bucolicraces:speed_modifiers/quartertallflight" = true
+		"bucolicraces:health_modifiers/fiveheart" = true
+
+	[origins."bucolicraces:beetle"]
+		"bucolicraces:armor_modifiers/beetle_armor" = true
+		"bucolicraces:recipes/dirt" = true
+		"bucolicraces:speed_modifiers/slow" = true
+		"bucolicraces:armor_modifiers/leather" = true
+		"bucolicraces:skills/elytra" = true
+		"bucolicraces:size_modifiers/quartersize" = true
+		"bucolicraces:speed_modifiers/quartertallflight" = true
+		"bucolicraces:diet_modifiers/rawbuff" = true
+		enabled = true
+		"bucolicraces:health_modifiers/fiveheart" = true
+
+	[origins."bucolicraces:pumpkin"]
+		"bucolicraces:status_effect_modifiers/regen" = true
+		"bucolicraces:zmisc_modifiers/photosynthesis" = true
+		"bucolicraces:health_modifiers/sevenheart" = true
+		"bucolicraces:zmisc_modifiers/dull" = true
+		"bucolicraces:ally_modifiers/endermanteam" = true
+		"bucolicraces:size_modifiers/threequartersize" = true
+		"bucolicraces:status_effect_modifiers/melonhate" = true
+		"bucolicraces:diet_modifiers/honeybuff" = true
+		enabled = true
+		"bucolicraces:diet_modifiers/honeydiet" = true
+		"bucolicraces:abilities/harden" = true
+		"bucolicraces:ally_modifiers/endermanteaminvite" = true
+		"bucolicraces:abilities/pumpkin" = true
+
+	[origins."bucolicraces:irongolem"]
+		"bucolicraces:size_modifiers/threeblockstall" = true
+		"bucolicraces:ally_modifiers/villagerdiscount" = true
+		"bucolicraces:speed_modifiers/threetallspeed" = true
+		"bucolicraces:status_effect_modifiers/sinking" = true
+		"bucolicraces:zmisc_modifiers/noswords" = true
+		"bucolicraces:status_effect_modifiers/regen" = true
+		"bucolicraces:diet_modifiers/irongolem/ironingot" = true
+		"bucolicraces:diet_modifiers/irondiet" = true
+		"bucolicraces:damage_taken_modifiers/fall_immunity" = true
+		"bucolicraces:health_modifiers/fifteenheart" = true
+		"bucolicraces:damage_taken_modifiers/drown" = true
+		"bucolicraces:on-hit_modifiers/iron_hands" = true
+		enabled = true
+		"bucolicraces:diet_modifiers/irongolem/crushed_iron_ore" = true
+		"bucolicraces:diet_modifiers/irongolem/ironnugget" = true
+		"bucolicraces:diet_modifiers/irongolem/iron_sheet" = true
+		"bucolicraces:jumping_modifiers/threetalljump" = true
+		"bucolicraces:diet_modifiers/nohunger" = true
+		"bucolicraces:diet_modifiers/irongolem/metal_bar" = true
+		"bucolicraces:diet_modifiers/irongolem/rawiron" = true
+
+	[origins."origins:merling"]
+		"origins:air_from_potions" = true
+		"origins:swim_speed" = true
+		"origins:water_vision" = true
+		"origins:like_water" = true
+		"origins:aqua_affinity" = true
+		"origins:water_breathing" = true
+		"origins:conduit_power_on_land" = true
+		enabled = true
+		"origins:aquatic" = true
+
+	[origins."origins:blazeborn"]
+		"origins:water_vulnerability" = true
+		"origins:flame_particles" = true
+		"origins:burning_wrath" = true
+		"origins:hotblooded" = true
+		"origins:fire_immunity" = true
+		"origins:damage_from_snowballs" = true
+		"origins:nether_spawn" = true
+		"origins:damage_from_potions" = true
+		enabled = true
+
+	[origins."bucolicraces:theblind"]
+		"bucolicraces:zmisc_modifiers/blindvision" = true
+		"bucolicraces:zmisc_modifiers/blind" = true
+		enabled = true
+
+	[origins."bucolicraces:sunwalker"]
+		"bucolicraces:zmisc_modifiers/nosleep" = true
+		"bucolicraces:zmisc_modifiers/daywalker" = true
+		"bucolicraces:damage_taken_modifiers/fire_immunity" = true
+		"bucolicraces:size_modifiers/reset" = true
+		enabled = true
+
+	[origins."bucolicraces:llama"]
+		"bucolicraces:diet_modifiers/vegetarian" = true
+		"bucolicraces:ally_modifiers/wolfhunt" = true
+		"bucolicraces:zmisc_modifiers/shed" = true
+		"bucolicraces:size_modifiers/belowaverage" = true
+		"bucolicraces:abilities/spit" = true
+		"bucolicraces:size_modifiers/elfwidth" = true
+		enabled = true
+		"bucolicraces:on-hit_modifiers/llama_spit" = true
+
+	[origins."bucolicraces:hare"]
+		"bucolicraces:diet_modifiers/vegetarian" = true
+		"bucolicraces:ally_modifiers/wolfhunt" = true
+		"bucolicraces:jumping_modifiers/harejump" = true
+		"bucolicraces:size_modifiers/halfsize" = true
+		"bucolicraces:status_effect_modifiers/fast" = true
+		"bucolicraces:fall_modifiers/harefall" = true
+		enabled = true
+		"bucolicraces:health_modifiers/fiveheart" = true
+
+	[origins."bucolicraces:poltergeist"]
+		"bucolicraces:zmisc_modifiers/nosleep" = true
+		"bucolicraces:diet_modifiers/poltergeist/soul_heart" = true
+		"bucolicraces:diet_modifiers/poltergeist/phantom_membrane" = true
+		"bucolicraces:diet_modifiers/poltergeist/bone" = true
+		"bucolicraces:skin_modifiers/glow" = true
+		"bucolicraces:diet_modifiers/miniscule" = true
+		"bucolicraces:abilities/cloaking" = true
+		"bucolicraces:abilities/aoelevitation" = true
+		"bucolicraces:skin_modifiers/blue_ghost_skin" = true
+		enabled = true
+		"bucolicraces:diet_modifiers/poltergeist/soul_bottle" = true
+		"bucolicraces:diet_modifiers/ghostdiet" = true
+

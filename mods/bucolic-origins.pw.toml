@@ -1,0 +1,13 @@
+name = "Bucolic Origins [FORGE/FABRIC]"
+filename = "bucolicorigins-3.6.6[FORGE].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "026a723c1d8775d8e5e70151512bcf875ff8598c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4432684
+project-id = 596305

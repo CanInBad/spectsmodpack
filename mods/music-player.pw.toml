@@ -1,0 +1,13 @@
+name = "Music Player"
+filename = "music_player-1.19.2-2.5.1.233.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8892cf86967e5f98c3581e2a4409456544f720a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4723068
+project-id = 294574

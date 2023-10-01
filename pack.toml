@@ -1,0 +1,11 @@
+name = "happy lala funland 2.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "911f5d067124ea65d7483c8738d2a0d09ccd11a931ec1f4d5ac528e24014785c"
+
+[versions]
+forge = "43.2.23"
+minecraft = "1.19.2"

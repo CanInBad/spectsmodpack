@@ -1,0 +1,13 @@
+name = "Ulterlands: Worlds Apart"
+filename = "Ulterlands v1.2.1 _ 19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99c08d5ef697c6d7d3a3c3ba5cb2f85762764fda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4421381
+project-id = 650094

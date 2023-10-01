@@ -1,0 +1,13 @@
+name = "Blood and Gore"
+filename = "bloodandgore1.19.2v1.1(beta).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f88e8e6b1dec1d0aeef909e731f9b37776b00598"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4373528
+project-id = 643623

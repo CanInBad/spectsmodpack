@@ -1,0 +1,13 @@
+name = "Panthalassa"
+filename = "panthalassa-1.3.2-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2cb13682f044029407293c2ffce6e38a0df483b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4083272
+project-id = 554120

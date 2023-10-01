@@ -1,0 +1,13 @@
+name = "YDM's Weapon Master"
+filename = "weaponmaster-multiplayer-forge-1.19.2-3.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88acb9cc506aed0df4311ac5a96dcaf57104df44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4728291
+project-id = 608235
