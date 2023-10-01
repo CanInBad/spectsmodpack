@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhancedvisuals.pw.toml"
-hash = "1627865f7159a63302d6a3ec0734027b07c8b7e627e4ae9b99a58469f6be31a0"
+hash = "e7f2ce46ae04e555cc60a59e460d01e9ecbb8f9a43388c503098b7c253c9722d"
 metafile = true
 
 [[files]]
