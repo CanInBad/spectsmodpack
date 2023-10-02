@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "d08052537a462b55988c05615626eb7ad3b59262a7f62fd4e08e774b8d45ebe7"
+hash = "f34cb4411dab58349d069bd0978ff667993cfaf841e63c9e7490a5305937ffb7"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
+hash = "de9399eb76a32d908f3bab54e96a551ebeda008ec671939ed9a8052c1db3aa30"
 metafile = true
 
 [[files]]
