@@ -1,0 +1,7 @@
+name = "Amplified Nether"
+filename = "Amplified_Nether_v1.2.zip"
+
+[download]
+url = "https://github.com/Stardust-Labs-MC/Amplified-Nether/releases/download/v1.2/Amplified_Nether_v1.2.zip"
+hash-format = "sha256"
+hash = "1f7a375eefeb7a9be8a7e363b1054e2a2e0f0e225b929fa067a390e3da73fd59"

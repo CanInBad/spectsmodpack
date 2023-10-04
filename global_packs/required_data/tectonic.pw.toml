@@ -1,0 +1,13 @@
+name = "Tectonic"
+filename = "tectonic-datapack-v2.1.1a.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/ZiVAiJjF/tectonic-datapack-v2.1.1a.zip"
+hash-format = "sha1"
+hash = "cd32aeab5bed3263e8d9d4837b5ac7ef78c845c6"
+
+[update]
+[update.modrinth]
+mod-id = "lWDHr9jE"
+version = "ZiVAiJjF"

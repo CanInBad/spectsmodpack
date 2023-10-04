@@ -1,6 +1,54 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE.txt"
+hash = "966656d0586fcaec1cd4d4ffd843bbbfbad1ef09e824f1dc624472d10abc9b30"
+
+[[files]]
+file = "credits.md"
+hash = "273b7e1de9b66b108b72464112c0c01401e2796d47818b9175d8ff85edb4dbed"
+
+[[files]]
+file = "global_packs/required_data/amplified-nether.pw.toml"
+hash = "1661541536808628d3e33309940f40c8b3d49583d612e84d21a4a155a4d2ec12"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/autopause.pw.toml"
+hash = "d9d25abf7b63f5d00884ed20c3d1ce6e1ffa750547e607c17bba21c188e70bc8"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/create-ore-crushing-fix.pw.toml"
+hash = "330addaebeae617ff7788d97707a522e6b9002a6e89ecdff1034feb4fc95f86e"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/netherracked.pw.toml"
+hash = "45c0b1ff28d6a71d3ed6ede08f73e812aa238fea41905a26235d31529cc3ed2e"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/tectonic.pw.toml"
+hash = "a22c43ba692dd81cfbdda18ca56224264875c811eb13987b64759a8ae494a4dc"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/terralith.pw.toml"
+hash = "89a829453cc6ff182c2d5a118d054cb506d1d54f305d8813dca8ae4bfdccaf2e"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/terratonic.pw.toml"
+hash = "1569b563ca00c11dcf79c48ce99c05c99d3f18ff9af713a0908e71f8536841ba"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/tinkerers-statures.pw.toml"
+hash = "7550f6c769244c813f580a1c3f54874382249417a5fc6f5209f9a64aced2953d"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "d0d2490f39cb7ecfc57e0f6284dbeb5ea90d6798503eb6d0360f39a353d1f7f2"
 metafile = true
@@ -296,8 +344,18 @@ hash = "d6c697bcdae1ccd5ce538db59329bfae414cb99ac0eb2eae8d289c939584875b"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "3945f1ad6e73ed7720abf0d4de35cf79bab4f141ad394fb06c86cc4a133745cb"
+metafile = true
+
+[[files]]
 file = "mods/domestication-innovation.pw.toml"
 hash = "119876b8e10ab75446efdb1eec68f13851e04454c889cba40a54e9b9a2cf613b"
+metafile = true
+
+[[files]]
+file = "mods/drp-global-datapack.pw.toml"
+hash = "b50658788183a897efd35aff0ae7ce5e69962cf290dd11bb6f586f8690cdbc04"
 metafile = true
 
 [[files]]
@@ -337,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
+hash = "30c94ab9f98e98a854c4c193d3d07d390e62de339145c7671db1c98b8863501a"
 metafile = true
 
 [[files]]
@@ -776,6 +834,11 @@ hash = "a898c133538d6b6b4fc3cfdb95e58965a3faad1524d40f8b224771d77e4a4639"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "38cda05de2967652501067622e52c4d72aebfc2187c812d7966a65ef8789312e"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "32776b867f6c09b2b57ec1779f6d7e804db1f597a22ce1462162419b30720bd9"
 metafile = true
@@ -788,11 +851,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a6b779b19fdc89e36439ddaf01be97ab2d6c1deb9229e104c581a575ebf1fa89"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "9a5022174f1158ad923458ade493c3aad0cd8cc892a0a20a154908764d29f7b1"
 metafile = true
 
 [[files]]

@@ -1,6 +1,8 @@
 # spectsmodpack
 This is for both client and server
 
+check [credits.md](credits.md) to view the credits
+
 **it is still pretty good idea to read through the commit in each changes and debate them in the comment**
 
 ## Deploying on client
@@ -28,10 +30,11 @@ Requirements:
 3. open terminal and cd yourself to cloned repository
 4. `packwiz serve`
 5. open another terminal and cd yourself to where you put `packwiz-installer-bootstrapper`
-6. `java -jar packwiz-installer-bootstrap.jar -s client https://localhost:8080/pack.toml`
-7. watch the terminal to see what mods are missing, then download said mods and put it in your .minecraft/mods
+6. `java -jar packwiz-installer-bootstrap.jar -s client http://localhost:8080/pack.toml`
+7. watch the terminal to see what mods are missing, then download said mods and put it in your `.minecraft/mods`
+8. make a following folders: `global_packs\required_data` in your .minecraft and open another file explorer navigate to your cloned repo and copy everything with `.zip` and paste it in `.minecraft\global_packs\required_data\`
 
-this should download all the mods and ready to launch
+this should download all the mods and datapack and ready to launch
 
 ## Deploying on server
 
@@ -45,9 +48,10 @@ Requirements:
 3. open terminal and cd yourself to cloned repository
 4. `packwiz serve`
 5. open another terminal and cd yourself to the server
-6. `java -jar packwiz-installer-bootstrap.jar -g -s server https://localhost:8080/pack.toml`
+6. `java -jar packwiz-installer-bootstrap.jar -g -s server http://localhost:8080/pack.toml`
 7. watch the terminal to see what mods are missing, then download said mods and put it in your server's `mods` folder
+8. make a following folders: `global_packs\required_data` in your server and open another file explorer navigate to your cloned repo and copy everything with `.zip` and paste it in `global_packs\required_data\`
 
-this should download all the mods and ready to launch the server if you already installed forge server on the same folder
+this should download all the mods & datapacks and ready to launch the server if you already installed forge server on the same folder
 
 though if you want more info on packwiz, [see here](https://packwiz.infra.link/tutorials/creating/getting-started/)

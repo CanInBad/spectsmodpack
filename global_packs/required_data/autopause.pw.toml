@@ -1,0 +1,7 @@
+name = "autopause"
+filename = "autopause.zip"
+
+[download]
+url = "https://github.com/skztr/autopause/releases/download/v1.0/autopause.zip"
+hash-format = "sha256"
+hash = "7dab64436770bfefef3c8df3c21cf1aff38236bd28664ff294235c8f0b23d50c"
