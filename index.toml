@@ -19,14 +19,34 @@ hash = "d9d25abf7b63f5d00884ed20c3d1ce6e1ffa750547e607c17bba21c188e70bc8"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/cauldron concrete v2.0.6 (MC 1.19.x).zip"
+hash = "c6f2c438d1a53044e3fde005f5adc16393d15a15e75e98176a2f4deeca290997"
+
+[[files]]
 file = "global_packs/required_data/create-ore-crushing-fix.pw.toml"
 hash = "330addaebeae617ff7788d97707a522e6b9002a6e89ecdff1034feb4fc95f86e"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/custom nether portals v2.3.6 (MC 1.19.x).zip"
+hash = "a3c48341b2ccb5c07ec5d327ae3fef9844a256c0a4f393a8f6f64b064c7ddc57"
+
+[[files]]
+file = "global_packs/required_data/fast leaf decay v2.0.6 (MC 1.19.x).zip"
+hash = "6b45047234fd5ce98624bfd07d96fea4d2b18704ce02826182c2fe4061dd8d86"
+
+[[files]]
 file = "global_packs/required_data/netherracked.pw.toml"
 hash = "45c0b1ff28d6a71d3ed6ede08f73e812aa238fea41905a26235d31529cc3ed2e"
 metafile = true
+
+[[files]]
+file = "global_packs/required_data/spectator conduit power v1.1.3 (MC 1.19.x).zip"
+hash = "b6936715894c1ef6f34b2a304dfbb4a91c33d820e9168e17fb888a7ba5efeaba"
+
+[[files]]
+file = "global_packs/required_data/spectator night vision v1.1.3 (MC 1.19.x).zip"
+hash = "0eb17e186cf00a38b81b278c34fcba4a080d20c199e0086e11231e48ee7308b2"
 
 [[files]]
 file = "global_packs/required_data/tectonic.pw.toml"
@@ -42,6 +62,10 @@ metafile = true
 file = "global_packs/required_data/terratonic.pw.toml"
 hash = "1569b563ca00c11dcf79c48ce99c05c99d3f18ff9af713a0908e71f8536841ba"
 metafile = true
+
+[[files]]
+file = "global_packs/required_data/timber v2.1.5 (MC 1.19.x).zip"
+hash = "54cdbf7d662152a1fd82c1f4c6f7f2111da9663ec6b4a4effc7215c173fd444a"
 
 [[files]]
 file = "global_packs/required_data/tinkerers-statures.pw.toml"
