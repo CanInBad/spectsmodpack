@@ -2,4 +2,5 @@
 .gitattributes
 .gitignore
 README.md
-*.zip
+/*.zip
+#forgor that this will ignore everything with a zip, not only for root 💀
