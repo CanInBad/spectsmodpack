@@ -4,3 +4,4 @@
 README.md
 /*.zip
 #forgor that this will ignore everything with a zip, not only for root 💀
+/changelog.txt

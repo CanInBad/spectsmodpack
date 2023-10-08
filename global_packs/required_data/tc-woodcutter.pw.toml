@@ -1,0 +1,13 @@
+name = "Woodcutter"
+filename = "Woodcutter-1.1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/boWXaKrz/versions/PPlI74Ao/Woodcutter-1.1.0.zip"
+hash-format = "sha1"
+hash = "89692f3489379d86b7fb187a87a8209f0ad471ac"
+
+[update]
+[update.modrinth]
+mod-id = "boWXaKrz"
+version = "PPlI74Ao"

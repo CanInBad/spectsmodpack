@@ -1,0 +1,13 @@
+name = "Origins Minus"
+filename = "origins-minus.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gbOL9is1/versions/Vn6xXof1/origins-minus.zip"
+hash-format = "sha1"
+hash = "8e03609c300f59aeb6a15d951bec5f0be5d67b15"
+
+[update]
+[update.modrinth]
+mod-id = "gbOL9is1"
+version = "Vn6xXof1"

@@ -31,7 +31,7 @@ Requirements:
 4. `packwiz serve`
 5. open another terminal and cd yourself to where you put `packwiz-installer-bootstrapper`
 6. `java -jar packwiz-installer-bootstrap.jar -s client http://localhost:8080/pack.toml`
-7. watch the terminal to see what mods are missing, then download said mods and put it in your .minecraft/mods
+7. watch the terminal to see what mods are missing, then download said mods and put it in your `.minecraft/mods`
 
 this should download all the mods and ready to launch
 

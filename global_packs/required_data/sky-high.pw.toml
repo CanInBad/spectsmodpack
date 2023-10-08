@@ -1,0 +1,13 @@
+name = "Sky High"
+filename = "skyhigh 0.1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ukHkGior/versions/4jkIQLV4/skyhigh%200.1.0.zip"
+hash-format = "sha1"
+hash = "7b3b893558e7bfba3f59ac74b4fbad2c954ac895"
+
+[update]
+[update.modrinth]
+mod-id = "ukHkGior"
+version = "4jkIQLV4"

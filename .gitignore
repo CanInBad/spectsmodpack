@@ -2,3 +2,5 @@
 # added credits to VanillaTweaks, no need to hide all .zip
 /*.zip 
 # above to hide exported zip
+/changelog.txt
+# I rather have internal changelog so I don't get lost

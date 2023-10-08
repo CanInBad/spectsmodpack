@@ -2,11 +2,20 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE.txt"
-hash = "966656d0586fcaec1cd4d4ffd843bbbfbad1ef09e824f1dc624472d10abc9b30"
+hash = "3c0e17e5efa787c4ba2d2a4ab51f476e56057902024496973a661d40071c6043"
+
+[[files]]
+file = "config/mca.json"
+hash = "c2fc636cfbbf3cd377978f7d3a926347797a997824c1ff267f1efa8164157e4e"
 
 [[files]]
 file = "credits.md"
-hash = "273b7e1de9b66b108b72464112c0c01401e2796d47818b9175d8ff85edb4dbed"
+hash = "4bdadb7c176e187adfc2d8bb569d9582a42c5190d89f9fbc3cdc2bf632fc7247"
+
+[[files]]
+file = "global_packs/required_data/aether-ruined-portals.pw.toml"
+hash = "885be5c32d38a62688035b183de10b69cc2562bdb052fce310b840b200b9e282"
+metafile = true
 
 [[files]]
 file = "global_packs/required_data/amplified-nether.pw.toml"
@@ -32,6 +41,11 @@ file = "global_packs/required_data/custom nether portals v2.3.6 (MC 1.19.x).zip"
 hash = "a3c48341b2ccb5c07ec5d327ae3fef9844a256c0a4f393a8f6f64b064c7ddc57"
 
 [[files]]
+file = "global_packs/required_data/deeper-oceans.pw.toml"
+hash = "08140f815576db1262a0a9a5f58a8817b82622c42e73547472f799b22ae9f066"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/fast leaf decay v2.0.6 (MC 1.19.x).zip"
 hash = "6b45047234fd5ce98624bfd07d96fea4d2b18704ce02826182c2fe4061dd8d86"
 
@@ -41,12 +55,27 @@ hash = "45c0b1ff28d6a71d3ed6ede08f73e812aa238fea41905a26235d31529cc3ed2e"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/origins-minus.pw.toml"
+hash = "98aee68fda136fc123d325281fa7adec21908151d3aa9534f044c6e64e254b6e"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/sky-high.pw.toml"
+hash = "8d85a45b81fe9daaf321e8ef33c9cd5d9a56ad632f47229d87af1837874874a6"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/spectator conduit power v1.1.3 (MC 1.19.x).zip"
 hash = "b6936715894c1ef6f34b2a304dfbb4a91c33d820e9168e17fb888a7ba5efeaba"
 
 [[files]]
 file = "global_packs/required_data/spectator night vision v1.1.3 (MC 1.19.x).zip"
 hash = "0eb17e186cf00a38b81b278c34fcba4a080d20c199e0086e11231e48ee7308b2"
+
+[[files]]
+file = "global_packs/required_data/tc-woodcutter.pw.toml"
+hash = "28360fcfeff208a560b62005dbe4e0556feea1a92a5b8ee660a21e5ab1515211"
+metafile = true
 
 [[files]]
 file = "global_packs/required_data/tectonic.pw.toml"
@@ -89,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "a57158870f256e3f593fe76cf90845843182296e8d2c084ef1b5ecc66699bbc3"
+hash = "e0d3c548f122ba8bd6849c0d40590c06eeefd681747d652ca78e4435f9ef2aaf"
 metafile = true
 
 [[files]]
@@ -144,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-botanics-addon.pw.toml"
-hash = "b8f638a210e5e0cb5a7eeb5caec7dfdfc166f3ce2effcbcadd55312c68141cbf"
+hash = "a4b1ece78c9cf62c4dc08aac9a1561a5a4667ab580a66212981ab2c1f1846c3b"
 metafile = true
 
 [[files]]
@@ -450,6 +479,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "9be91502afdede8c762fd6e4355487ee0c3b28acdf18f1e510cd702b9f42c23d"
 metafile = true
 
 [[files]]
@@ -763,6 +797,11 @@ hash = "feeee060f81012d4a69bb47e6d50886182cc28370978e1b5edab645213a0ed96"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "4e09f2693514b6f45eab8fc7faf17be7ab368ce4f90c875fefcd38abaf0d5fb9"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "ec1501ed6d675862531d7cf52aef0e1894232a15b132df4f325aec351d2edc90"
 metafile = true
@@ -824,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "02e0e41dbbb071e2794b9fb80c4ca172af097226686daedb1ecb0241a1d78cc0"
+hash = "4c8d7db1762279e00fa3adf3da56c0442c0365f210575f0c3c86cf4f3ca6fa25"
 metafile = true
 
 [[files]]
@@ -878,6 +917,11 @@ hash = "a6b779b19fdc89e36439ddaf01be97ab2d6c1deb9229e104c581a575ebf1fa89"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "07cb50f9be2d3664bcf418974f915b996599f771f825e26fbb5a3c33bf2cfdd8"
+metafile = true
+
+[[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "e3130b1d0cc8bdcbdc5ddd4de720ec0c6d97996d90fdb5e3a77c17571709cede"
 metafile = true
@@ -895,11 +939,6 @@ metafile = true
 [[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "3ddad767952feeccb9792895f04c33e4d4dde8e30b2cccb20a4b94a64f6b57c9"
-metafile = true
-
-[[files]]
-file = "mods/untamedwilds.pw.toml"
-hash = "d8fecceb062846ebfe9bde0b583766866f400e25d19bc5631ad280773fa66a65"
 metafile = true
 
 [[files]]

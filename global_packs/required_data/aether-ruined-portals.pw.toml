@@ -1,0 +1,13 @@
+name = "Aether Data Pack: Ruined Portals"
+filename = "Aether Ruined Portals 1.0.0-1.19.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pMgxJijG/versions/pNN9n65s/Aether%20Ruined%20Portals%201.0.0-1.19.2.zip"
+hash-format = "sha1"
+hash = "ca3749d80229a0e28effe63591d1b69965419baa"
+
+[update]
+[update.modrinth]
+mod-id = "pMgxJijG"
+version = "pNN9n65s"
