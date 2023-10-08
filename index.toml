@@ -10,7 +10,7 @@ hash = "c2fc636cfbbf3cd377978f7d3a926347797a997824c1ff267f1efa8164157e4e"
 
 [[files]]
 file = "credits.md"
-hash = "4bdadb7c176e187adfc2d8bb569d9582a42c5190d89f9fbc3cdc2bf632fc7247"
+hash = "3cd36595000e271902abf08ea7ac90a079a08a792fd1d0365fa44d15e65f03c7"
 
 [[files]]
 file = "global_packs/required_data/aether-ruined-portals.pw.toml"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "03ebaa7cf5a99bed0b2c3f878b798b58ab5d193cc7b95423594b38032b776ecf"
+hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
