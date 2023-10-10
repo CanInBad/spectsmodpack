@@ -14,7 +14,12 @@ hash = "c2fc636cfbbf3cd377978f7d3a926347797a997824c1ff267f1efa8164157e4e"
 
 [[files]]
 file = "credits.md"
-hash = "4bdadb7c176e187adfc2d8bb569d9582a42c5190d89f9fbc3cdc2bf632fc7247"
+hash = "3cd36595000e271902abf08ea7ac90a079a08a792fd1d0365fa44d15e65f03c7"
+
+[[files]]
+file = "global_packs/required_but_higher/terratonic.pw.toml"
+hash = "1569b563ca00c11dcf79c48ce99c05c99d3f18ff9af713a0908e71f8536841ba"
+metafile = true
 
 [[files]]
 file = "global_packs/required_data/aether-ruined-portals.pw.toml"
