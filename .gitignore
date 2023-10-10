@@ -4,3 +4,5 @@
 # above to hide exported zip
 /changelog.txt
 # I rather have internal changelog so I don't get lost
+/servers.dat
+# I mean I rather have another step to IPs. don't want to risk it
