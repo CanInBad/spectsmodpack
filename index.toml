@@ -5,12 +5,16 @@ file = "LICENSE.txt"
 hash = "3c0e17e5efa787c4ba2d2a4ab51f476e56057902024496973a661d40071c6043"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "1fd0d3eccc75bba6b8b57f7034540f5c6ff662e153ad1499cb449fb1cfa97073"
+
+[[files]]
 file = "config/mca.json"
 hash = "c2fc636cfbbf3cd377978f7d3a926347797a997824c1ff267f1efa8164157e4e"
 
 [[files]]
 file = "credits.md"
-hash = "3cd36595000e271902abf08ea7ac90a079a08a792fd1d0365fa44d15e65f03c7"
+hash = "4bdadb7c176e187adfc2d8bb569d9582a42c5190d89f9fbc3cdc2bf632fc7247"
 
 [[files]]
 file = "global_packs/required_data/aether-ruined-portals.pw.toml"
@@ -78,18 +82,8 @@ hash = "28360fcfeff208a560b62005dbe4e0556feea1a92a5b8ee660a21e5ab1515211"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/tectonic.pw.toml"
-hash = "a22c43ba692dd81cfbdda18ca56224264875c811eb13987b64759a8ae494a4dc"
-metafile = true
-
-[[files]]
 file = "global_packs/required_data/terralith.pw.toml"
 hash = "89a829453cc6ff182c2d5a118d054cb506d1d54f305d8813dca8ae4bfdccaf2e"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/terratonic.pw.toml"
-hash = "1569b563ca00c11dcf79c48ce99c05c99d3f18ff9af713a0908e71f8536841ba"
 metafile = true
 
 [[files]]

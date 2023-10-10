@@ -1,12 +1,12 @@
 name = "Spect's modpack"
 author = "ChiIdPuncher, CanInBad"
-version = "R1"
+version = "R2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b4a5ece1254cbcd00de39d34862768ab255c0fb7bcf1994779756b3de968f37d"
+hash = "935356dca56b467094ac4dfd0ec023448f8e994d4e9376c1463480e1657f91ef"
 
 [versions]
 forge = "43.2.23"
