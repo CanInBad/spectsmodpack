@@ -1,0 +1,13 @@
+name = "Epic Fight"
+filename = "EpicFight-19.5.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9e207ed9119015105ec72b7ad8d50d956b5cddb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4787581
+project-id = 405076

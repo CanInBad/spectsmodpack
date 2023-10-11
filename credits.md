@@ -49,9 +49,11 @@ for creating the Aether mod itself and [Aether Ruined Portals](https://modrinth.
 
 for creating the [Origin Minus](https://modrinth.com/datapack/origins-minus)
 
-## 12) [taya](https://modrinth.com/user/taya)
+## 12) [henkelmax](https://github.com/henkelmax) and its contributors
 
-for creating [Wood Cutter](https://modrinth.com/datapack/tc-woodcutter)
+for creating [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+
+[just saw in FAQ that they required crediting]: # 
 
 ## 13) Spectdash (aka ChiIdPuncher)
 

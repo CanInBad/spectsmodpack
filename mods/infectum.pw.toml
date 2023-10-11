@@ -1,0 +1,13 @@
+name = "Infectum"
+filename = "Infectum1.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40349c6c3f4a94250a2ee5e21d7c0e7842c0e82c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4488473
+project-id = 650378

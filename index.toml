@@ -14,7 +14,7 @@ hash = "c2fc636cfbbf3cd377978f7d3a926347797a997824c1ff267f1efa8164157e4e"
 
 [[files]]
 file = "credits.md"
-hash = "3cd36595000e271902abf08ea7ac90a079a08a792fd1d0365fa44d15e65f03c7"
+hash = "a1cf2d3b2f0530ab0df6025cd3fb8f8b61ce8871a273fc83e54a131ee8093817"
 
 [[files]]
 file = "global_packs/required_but_higher/terratonic.pw.toml"
@@ -80,11 +80,6 @@ hash = "b6936715894c1ef6f34b2a304dfbb4a91c33d820e9168e17fb888a7ba5efeaba"
 [[files]]
 file = "global_packs/required_data/spectator night vision v1.1.3 (MC 1.19.x).zip"
 hash = "0eb17e186cf00a38b81b278c34fcba4a080d20c199e0086e11231e48ee7308b2"
-
-[[files]]
-file = "global_packs/required_data/tc-woodcutter.pw.toml"
-hash = "28360fcfeff208a560b62005dbe4e0556feea1a92a5b8ee660a21e5ab1515211"
-metafile = true
 
 [[files]]
 file = "global_packs/required_data/terralith.pw.toml"
@@ -206,11 +201,6 @@ hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
 
 [[files]]
-file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
-metafile = true
-
-[[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "019d8161c894fde396bdc28cedfd6847814132015789473186457707e7dd446a"
 metafile = true
@@ -326,6 +316,11 @@ hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
 metafile = true
 
 [[files]]
+file = "mods/corail-woodcutter.pw.toml"
+hash = "d74b5798640371dbc5cb73d8d9e463d4e3d4c144db9fb80aa8b9150920d0e5e6"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "97575aefd081117027b3ac2c24bf7a56b927b41c9f724d91b0eb42442236b4f6"
 metafile = true
@@ -338,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
+metafile = true
+
+[[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "51d77d66bd6cea856926f77de6b54bbc99f3b4431c86d8bc81dbf3bcd2e582b7"
 metafile = true
 
 [[files]]
@@ -406,6 +406,11 @@ hash = "119876b8e10ab75446efdb1eec68f13851e04454c889cba40a54e9b9a2cf613b"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "1adef1506aa657b6c901c500101e0e390db771e7371eb7ea951755b607cfcd58"
+metafile = true
+
+[[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "b50658788183a897efd35aff0ae7ce5e69962cf290dd11bb6f586f8690cdbc04"
 metafile = true
@@ -441,6 +446,11 @@ hash = "ce73c44d6f4622e2f6d11fc7116752f46d82a433e4c894b5f7e57e9ad1f2c05c"
 metafile = true
 
 [[files]]
+file = "mods/entangled.pw.toml"
+hash = "64ff07526fa66b2dad9674dbfcb2fd696913acd272391cc0df20b94a9bc2c33e"
+metafile = true
+
+[[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "be7e571d96df4be059d97ac435ac4fe4c180ca5d084b62e2e25343faae4ec238"
 metafile = true
@@ -448,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "30c94ab9f98e98a854c4c193d3d07d390e62de339145c7671db1c98b8863501a"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight-mod.pw.toml"
+hash = "3155b8110bdc713b7d4875050f0ab14e92627833530460ea040f9eee373f9b35"
 metafile = true
 
 [[files]]
@@ -473,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "4c82054c4ccb168d7e0d83f61658242d94751a4a278c2ec66340595dc45e1ee1"
+metafile = true
+
+[[files]]
+file = "mods/fix-experience-bug.pw.toml"
+hash = "d1eaa3edfce758aa080d72205b1dadf3a96e2ecb651c50978955fec981b48d64"
 metafile = true
 
 [[files]]
@@ -511,8 +531,8 @@ hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
 metafile = true
 
 [[files]]
-file = "mods/fungal-infection-spore.pw.toml"
-hash = "64eaa4732a41e2df7d74cde48ea24339916647257790c467fd2bbff7c66cc1ef"
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "36560cdaa4a9d63651ad2781bec400cfd166f450eb49e76307bb28c631ed1d85"
 metafile = true
 
 [[files]]
@@ -548,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
+metafile = true
+
+[[files]]
+file = "mods/infectum.pw.toml"
+hash = "cdf71419d229bf94ac7a9309859da9dff2f3a0465f4e7fe8a97c6dcafe37afd6"
 metafile = true
 
 [[files]]
@@ -593,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/login-protection.pw.toml"
 hash = "f0fbc2700918da890f98027ed75fa7f2864a73dc069425ee3c40e366c28df32c"
+metafile = true
+
+[[files]]
+file = "mods/longer-login-times.pw.toml"
+hash = "1d688b9c24abc134e8c8e60b30cc30b6d2c43a9467198c921d5212819d7a2597"
 metafile = true
 
 [[files]]
@@ -881,6 +911,11 @@ hash = "f087535773f71f42033c7f5295c7cfe0c964735fe0a14238fb1c116c28a1c4fa"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "4c2a1050acecb0b04233ce038a38fa580a6ab1ed3670c109acab40371aa92ae9"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "3d0969ca93eae141c20b8b36f4361d080792947694ae637c6f491e4ba59616da"
 metafile = true
@@ -908,6 +943,16 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "0b1cb023f725238fb401e700c8147b451af1217633eda07f126a0988723b70d0"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1f20786408ae526f5df6a6cde7c04c4dd4afc2d87d5bc24a109687622f9db356"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "54d63280847c1aeda342100d55fc63cbfcf9732c24f1e0cda325bc7216aadc05"
 metafile = true
 
 [[files]]
@@ -979,3 +1024,7 @@ metafile = true
 file = "mods/zombie-awareness.pw.toml"
 hash = "d3b835c39de7ef5be71391333e8dec0d72ea44e1c5d24b7bea911769c5adf46c"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "091e937805d504a7a8104682401eb3afc71600a09d2af719f7f9f5820c7bae61"
