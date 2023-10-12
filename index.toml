@@ -201,6 +201,11 @@ hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
+metafile = true
+
+[[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "019d8161c894fde396bdc28cedfd6847814132015789473186457707e7dd446a"
 metafile = true
@@ -213,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/blood-and-gore.pw.toml"
 hash = "2f9e138ebd7505c89ba20d8344037b0a152edfb49563ffeb5b616aa04f9210c8"
+metafile = true
+
+[[files]]
+file = "mods/born-in-chaos.pw.toml"
+hash = "e86627559fd41ab0ce1061441388986e9c7bf6d4676897e981018eb373ba2a0f"
 metafile = true
 
 [[files]]
@@ -458,11 +468,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "30c94ab9f98e98a854c4c193d3d07d390e62de339145c7671db1c98b8863501a"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-mod.pw.toml"
-hash = "3155b8110bdc713b7d4875050f0ab14e92627833530460ea040f9eee373f9b35"
 metafile = true
 
 [[files]]
