@@ -5,6 +5,10 @@ file = "LICENSE.txt"
 hash = "3c0e17e5efa787c4ba2d2a4ab51f476e56057902024496973a661d40071c6043"
 
 [[files]]
+file = "config/dynview-common.toml"
+hash = "c334c0eab4b88a03ca036b6eb04730e0c13d94649973d7c3cd3c42e8b6878483"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "1fd0d3eccc75bba6b8b57f7034540f5c6ff662e153ad1499cb449fb1cfa97073"
 
@@ -253,11 +257,6 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
-metafile = true
-
-[[files]]
-file = "mods/canary.pw.toml"
-hash = "f34cb4411dab58349d069bd0978ff667993cfaf841e63c9e7490a5305937ffb7"
 metafile = true
 
 [[files]]
@@ -576,6 +575,11 @@ hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "e6031d8d1c32fbb18bbfc6e2dc88cd4b7760dd8f7659c1cba821e082209e4461"
+metafile = true
+
+[[files]]
 file = "mods/infectum.pw.toml"
 hash = "cdf71419d229bf94ac7a9309859da9dff2f3a0465f4e7fe8a97c6dcafe37afd6"
 metafile = true
@@ -611,6 +615,11 @@ hash = "dbeddebd79bed8f91665e82a018d1d99806a3107ff20b850c8b63b34b1caffb5"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-forge.pw.toml"
 hash = "75db5a82c47c470b5f7483ef8008073616ebe218672d9fb60242de5788c6d764"
 metafile = true
@@ -638,6 +647,11 @@ metafile = true
 [[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "1a68e6d0ffd704bb3c7cdde74568b841cd110b82c39d3beebc63886156f3da7b"
+metafile = true
+
+[[files]]
+file = "mods/mc2discord.pw.toml"
+hash = "7d8aae68df17d630242b765901ed9fcf44051e83e86b20f73ca6c6471d23614f"
 metafile = true
 
 [[files]]
